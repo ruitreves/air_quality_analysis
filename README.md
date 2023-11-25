@@ -14,6 +14,11 @@ The following features are included in order to meet the requirements of the cou
 3. Visualization are included using matplotlib.
 4. A requirements.txt file is included, as well as instructions for using a virtual environment while running the project.
 5. This readme.md file, as well as comments and markdown cells throughout the project.
+### Instructions
+1. Clone the repo to your machine.
+2. Create and activate a virtual environment and install the packages listed in the requirements.txt file. (instructions below)
+3. Run the Jupyter Notebook 
+
 
 ### Virtual Environment Instructions
 1. After you have cloned the repo to your machine, navigate to the project folder in GitBash/Terminal.
