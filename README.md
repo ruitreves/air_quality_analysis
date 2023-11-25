@@ -32,11 +32,11 @@ The following features are included in order to meet the requirements of the cou
 | Deactivate | deactivate                      | deactivate      
 
 ## <span style="color:green">Interpretation and Analysis</span>
-
+### Hyposthesis
 My hypothesis for this project was that there would be a positive correlation between increasing temperature and increasing AQI. I believed that this would present itself as higher AQI's during summer months, and lower AQI's in winter months, generally, with some deviations. 
-
+### Interpretation
 The analysis showed that there is a positive correlation between AQI and temperature, but not a perfect one. There is a generally observable trend, but also instances where the two variables are less positively correlated. The general trend is observable by looking at the scatter plot comparing maximum, minimum, and average temperatures with the AQI for each day available in the dataset. 
 This general trend was also observable in the bar charts, the first showing the average AQI per month for all years, and the second showing the average temperature per month for all years. The peaks of the two charts matched perfectly, with the highest AQI's appearing in the hottest months, June, July, and August. However, the relationship was not linear across all months. 
 Another observation was how AQI fluctuates throughout the week. The idea was that perhaps car communting (more common during the weekdays) would have a noticable effect on AQI. The data showed a slight uptick in AQI from Monday - Friday, a drop on Saturday and a further drop on Sunday. Without further data on car use it is not possible to identify a cause and effect relationship here, but we do acknowledge the correlation. 
-
+### Conclusion
 In conclusion, there is a clear correlation between the hottest temperatures and the highest AQI's, but it appears that there are more weather variables that need to be considered in further analyses. As an inital exploratory analysis, I believe this project successfully identifies that there is a correlation worthy of further analysis between AQI and temperature. 
